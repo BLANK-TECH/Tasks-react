@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Tasks-react/./static/js/main.e3013e71.chunk.js",
+    "main.js.map": "/Tasks-react/./static/js/main.e3013e71.chunk.js.map",
+    "runtime-main.js": "/Tasks-react/./static/js/runtime-main.304fb5ed.js",
+    "runtime-main.js.map": "/Tasks-react/./static/js/runtime-main.304fb5ed.js.map",
+    "static/js/2.9f19a723.chunk.js": "/Tasks-react/./static/js/2.9f19a723.chunk.js",
+    "static/js/2.9f19a723.chunk.js.map": "/Tasks-react/./static/js/2.9f19a723.chunk.js.map",
+    "index.html": "/Tasks-react/./index.html",
+    "precache-manifest.2c0b7a821bd55dbf14a4463c97726efc.js": "/Tasks-react/./precache-manifest.2c0b7a821bd55dbf14a4463c97726efc.js",
+    "service-worker.js": "/Tasks-react/./service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.304fb5ed.js",
+    "static/js/2.9f19a723.chunk.js",
+    "static/js/main.e3013e71.chunk.js"
+  ]
+}
