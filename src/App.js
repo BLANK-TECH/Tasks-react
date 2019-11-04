@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
-import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
-import './App.css';
+import {BrowserRouter as Router, Route, Link} from 'react-router-dom';
 import tasks from './sample/tasks.json';
 import Tasks from './components/Tasks';
 import TaskForm from './components/TaskForm';
